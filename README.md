@@ -1,5 +1,3 @@
-# ddpg_mod
-ddpg_mod_bipedal_walker
 # Deep Deterministic Policy Gradient (DDPG) for Continuous Control
 
 ## Overview
